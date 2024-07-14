@@ -1,1 +1,3 @@
-# Kael_First-Git
+202310970
+Mikhael Edman P. Gomez
+BSCSSE TN03
